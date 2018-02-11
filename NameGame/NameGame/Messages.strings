@@ -1,0 +1,18 @@
+/* 
+  Messages.strings
+  NameGame
+
+  Created by Collin Chandler on 2/10/18.
+  Copyright © 2018 WillowTree Apps. All rights reserved.
+*/
+
+"game_type_desc_random" = "A random assortment of current employees.";
+"game_type_desc_matt"   = "Can you guess which Mat(t) is which?";
+"game_type_desc_team"   = "Current and former team members collide in this guessing game.";
+
+"round_count_warning"   = "You can only get the best score by playing at least %d rounds";
+
+"results0" = "You have ascended. You are a god among men. You have learned every name of every person in all of WillowTree.";
+"results1" = "You're getting there.";
+"results2" = "Not bad, but you need to try harder.";
+"results3" = "Well that was a total failure";
